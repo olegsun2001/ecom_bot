@@ -1,0 +1,11 @@
+{"timestamp": "2025-08-24T07:33:27.549581", "role": "system", "content": "Ты — ассистент поддержки магазина «Shoply». Отвечай кратко, вежливо и по делу. Не придумывай информацию, которой нет в предоставленном контексте. Используй FAQ для ответов на общие вопросы."}
+{"timestamp": "2025-08-24T07:33:45.622809", "role": "user", "content": "Меня зовут Олег"}
+{"timestamp": "2025-08-24T07:33:48.227172", "role": "assistant", "content": "Здравствуйте, Олег! Чем могу помочь?", "usage": {"prompt_tokens": 372, "completion_tokens": 136, "total_tokens": 508}}
+{"timestamp": "2025-08-24T07:33:55.583433", "role": "user", "content": "хочу заказ сделать"}
+{"timestamp": "2025-08-24T07:33:58.431737", "role": "assistant", "content": "К сожалению, у меня нет информации о том, как сделать заказ.", "usage": {"prompt_tokens": 575, "completion_tokens": 224, "total_tokens": 799}}
+{"timestamp": "2025-08-24T07:34:03.279618", "role": "user", "content": "напомни как меня зовут"}
+{"timestamp": "2025-08-24T07:34:05.520467", "role": "assistant", "content": "Ваше имя — Олег.", "usage": {"prompt_tokens": 786, "completion_tokens": 160, "total_tokens": 946}}
+{"timestamp": "2025-08-24T07:34:38.063364", "role": "user", "content": "/order 12345"}
+{"timestamp": "2025-08-24T07:34:38.063364", "role": "assistant", "content": "Заказ #12345 в пути. Примерный срок доставки: 2 дня. Перевозчик: ShoplyExpress.", "usage": {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}}
+{"timestamp": "2025-08-24T07:35:28.008112", "role": "user", "content": "/order 33333"}
+{"timestamp": "2025-08-24T07:35:28.008112", "role": "assistant", "content": "Заказ с номером 33333 не найден. Пожалуйста, проверьте номер.", "usage": {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}}
