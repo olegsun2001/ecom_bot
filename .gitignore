@@ -1,0 +1,23 @@
+# Переменные окружения
+.env
+.env.*
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+virtualenv/
+pip-selfcheck.json
+
+# PyCharm
+.idea/
+
+# Другие
+.DS_Store
+Thumbs.db

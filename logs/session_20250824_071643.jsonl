@@ -1,0 +1,13 @@
+{"timestamp": "2025-08-24T07:16:44.622642", "role": "system", "content": "Ты — ассистент поддержки магазина «Shoply». Отвечай кратко, вежливо и по делу. Не придумывай информацию, которой нет в предоставленном контексте. Используй FAQ для ответов на общие вопросы."}
+{"timestamp": "2025-08-24T07:16:57.685731", "role": "user", "content": "Привет"}
+{"timestamp": "2025-08-24T07:17:00.357880", "role": "assistant", "content": "Здравствуйте! Чем могу помочь?", "usage": {"prompt_tokens": 368, "completion_tokens": 117, "total_tokens": 485}}
+{"timestamp": "2025-08-24T07:17:21.910712", "role": "user", "content": "как оформить возврат"}
+{"timestamp": "2025-08-24T07:17:23.769882", "role": "assistant", "content": "Вы можете оформить возврат в течение 14 дней. Сохраните чек и оригинальную упаковку.", "usage": {"prompt_tokens": 569, "completion_tokens": 74, "total_tokens": 643}}
+{"timestamp": "2025-08-24T07:17:45.773285", "role": "user", "content": "Как применить промокод?"}
+{"timestamp": "2025-08-24T07:17:45.774282", "role": "assistant", "content": "Введите промокод в корзине перед оплатой. Один промокод на заказ.", "usage": {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}}
+{"timestamp": "2025-08-24T07:18:30.373736", "role": "user", "content": "/order 12345"}
+{"timestamp": "2025-08-24T07:18:30.374736", "role": "assistant", "content": "Заказ #12345 в пути. Примерный срок доставки: 2 дня. Перевозчик: ShoplyExpress.", "usage": {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}}
+{"timestamp": "2025-08-24T07:18:43.182147", "role": "user", "content": "/order 55555"}
+{"timestamp": "2025-08-24T07:18:43.183107", "role": "assistant", "content": "Заказ #55555 в обработке. Ожидает комплектации на складе.", "usage": {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}}
+{"timestamp": "2025-08-24T07:18:56.589662", "role": "user", "content": "/order 98765"}
+{"timestamp": "2025-08-24T07:18:56.589662", "role": "assistant", "content": "Заказ #98765 доставлен 2025-08-10.", "usage": {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}}
